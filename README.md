@@ -5,6 +5,6 @@
 
   # tejasrode's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[tejasrode.github.io/home](https://tejasrode.github.io/home)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
